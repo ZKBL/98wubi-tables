@@ -77655,14 +77655,6 @@ X	X：󰄩󰁲󰄪󰄫󰅀󰄭󰄯󰄰󰁴󰄮󰁳󰄬󰁵󰄱
 𪛆	󰃆󰀿󰃏󰄢	imkv
 𪛇	󰃸󰅥󰁃󰃏	qxnk
 𪛉	󰃸󰃏󰃏󰄻	qkkn
-𪛗	󰄤󰂶󰃏󰄋	wgkt
-𪛘	󰃓󰄋󰀏	lte
-𪛙	󰃦󰃦󰃒󰃒	nnll
-𪛚	󰂽󰄋󰀏	hte
-𪛚	󰀥󰃦󰀅	hnb
-𪛛	󰃡󰄲󰀦	nyi
-𪛜	󰂆󰂆󰂆󰂆	aaaa
-𪛜	󰂶󰂺󰃦󰁫	ghnv
 𪛝	󰄨󰄼󰀦	wyi
 𪜀	󰂱󰁓󰁫	fnv
 𪜁	󰂶󰁹󰀬	gbj
@@ -101692,3 +101684,12 @@ X	X：󰄩󰁲󰄪󰄫󰅀󰄭󰄯󰄰󰁴󰄮󰁳󰄬󰁵󰄱
 𫜷	󰂜󰄋󰂳󰂏	dtfb
 𫜸	󰃏󰄮󰁀	kxn
 𫜹	󰄢󰁈󰂶󰂶	vngg
+𪛗	󰄤󰂶󰃏󰀘	wgkf	hé・gě
+𪛘	󰃓󰂺󰁈󰂶	lhng	sì
+𪛙	󰂶󰂶󰃒󰃒	ggll	yī
+𪛚	󰂽󰂺󰂶󰂶	hhgg	shàng・shǎng
+𪛛	󰃡󰂃󰀦	nyi	chǐ・chě
+𪛜	󰂆󰂆󰂆󰂆	aaaa	gōng
+𪛝	󰄨󰄼󰀦	wyi	fán
+𪛞	󰂷󰄖󰃱󰄅	gaps
+𪛟	󰂼󰂷󰀝	hgg
